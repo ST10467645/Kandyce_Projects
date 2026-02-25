@@ -1,0 +1,15 @@
+I have attached the following:
+
+Word document (ST10467645_INSY6112_Exam) containing all my answers for question 1 to 4 that includes:
+Question 1: Image of ERD
+Question 2: Image of Dependency Diagrams
+Question 3: Screenshot of Screenshot of SQL script on workbench and the SQL script answers
+Question 4: Screenshot of MongoDB interactive Shell Commands and the Copied and pasted commands from the shell
+
+Image of my ERD for question 1 (ST10467645_INSY6112_Exam_Q1)
+
+Image of my Dependency diagram and normalisation for question 2 (ST10467645_INSY6112_Exam_Q2)
+
+Copy of the sql file for question 3
+
+A txt file that has the e MongoDB interactive shell commands
